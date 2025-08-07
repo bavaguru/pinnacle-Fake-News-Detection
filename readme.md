@@ -34,13 +34,16 @@ This project focuses on identifying fake news articles using natural language pr
 ## 📌 Screenshots
 
 ### 🔹 Confusion Matrix  
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](<img width="748" height="546" alt="confusin matrix" src="https://github.com/user-attachments/assets/dc3ad0ca-d2d1-4191-91f9-2969e9c6195a" />
+)
 
 ### 🔹 Word Cloud – Fake News  
-![Word Cloud Fake](screenshots/wordcloud_fake.png)
+![Word Cloud Fake](<img width="568" height="398" alt="fake news" src="https://github.com/user-attachments/assets/f8b2d8a9-3997-4706-9831-d6e4315f648f" />
+)
 
 ### 🔹 Word Cloud – Real News  
-![Word Cloud Real](screenshots/wordcloud_real.png)
+![Word Cloud Real](<img width="522" height="402" alt="true news" src="https://github.com/user-attachments/assets/bde84225-bb9c-4837-98dd-72ff5c84b314" />
+)
 
 > ⚠️ Replace the `screenshots/xyz.png` path with actual image file names in your GitHub repo.
 
@@ -63,3 +66,4 @@ This project focuses on identifying fake news articles using natural language pr
 ---
 
 ## 📬 Feel free to fork, star ⭐ or share!
+
